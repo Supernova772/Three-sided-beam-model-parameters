@@ -1,4 +1,4 @@
-Depth (mm)	Width (mm)	Flange thickness (mm)	Web thickness (mm)	Insulation thickness (mm)	Insulation conductivity (W/mm*K)
+Depth (mm)	Width (mm)	Flange thickness (mm)	Web thickness (mm)	Insulation thickness (mm)	Insulation conductivity (W/m*K)
 254	102	6.8	5.8	155	0.2
 254	102	6.8	5.8	15.5	0.02
 254	102	6.8	5.8	47.7	0.2
